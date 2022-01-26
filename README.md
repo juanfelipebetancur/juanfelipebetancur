@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanfelipebetancur
 - 👀 I’m interested in continuous growning and learning
-- 🌱 I’m currently learning Azure and M365
+- 🌱 I’m currently learning Azure, AWS, DevOps, GitLab/GitHub, Docker, and Kubernetes
 - 📫 You can reach me at juanfelipebetancur@hotmail.com
 
 <!---
